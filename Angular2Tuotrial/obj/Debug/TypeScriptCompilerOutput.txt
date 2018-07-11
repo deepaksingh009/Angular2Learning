@@ -1,0 +1,6 @@
+F:\Deepak\work\Angular2Tuotrial\Angular2Tuotrial\app\app.component.js
+F:\Deepak\work\Angular2Tuotrial\Angular2Tuotrial\app\app.component.js.map
+F:\Deepak\work\Angular2Tuotrial\Angular2Tuotrial\app\app.module.js
+F:\Deepak\work\Angular2Tuotrial\Angular2Tuotrial\app\app.module.js.map
+F:\Deepak\work\Angular2Tuotrial\Angular2Tuotrial\app\main.js
+F:\Deepak\work\Angular2Tuotrial\Angular2Tuotrial\app\main.js.map
